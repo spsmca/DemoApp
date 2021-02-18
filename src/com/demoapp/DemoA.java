@@ -7,7 +7,7 @@ public class DemoA {
     // merged as below
           System.out.println("This is : DemoA  (Branch1)" );
 	  System.out.println("This is : Branch2");
-	  System.out.println("This is : Branch4");
+	  System.out.println("This is : Branch5");
 
 	}
 }
